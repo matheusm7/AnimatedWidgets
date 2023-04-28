@@ -1,4 +1,5 @@
 # animated_splash_screen
+![Screenshot_2023-04-28-14-00-09-943_com example animated_splash_screen](https://user-images.githubusercontent.com/106702324/235209775-965a7bd7-9f40-4bbd-856f-56f9c877518e.jpg)
 
 A new Flutter project.
 
